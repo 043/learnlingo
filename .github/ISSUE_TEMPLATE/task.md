@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-Epic:
+### Epic
+- #EpicId
 
-Story:
+### Story
+- #StoryId
 
 ### Description
